@@ -10,6 +10,6 @@ Tasks from course 100DaysOfSwift
 ![Simulator Screen Recording - iPhone 13 Pro Max - 2022-10-13 at 18 40 42](https://user-images.githubusercontent.com/108011846/195643554-dd19c216-33b0-476d-8e7e-19d4bf4f21de.gif)
 
 
-- Projece 3 (Day 22) Milestone
+- Project 3 (Day 22) Milestone:
 
 ![Simulator Screen Recording - iPhone 13 Pro Max - 2022-10-14 at 17 48 32](https://user-images.githubusercontent.com/108011846/195875938-faa93224-7d82-4219-955a-39b0b9788f99.gif)
