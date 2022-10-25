@@ -18,3 +18,7 @@ Tasks from course 100DaysOfSwift
 
 ![screen01](https://user-images.githubusercontent.com/108011846/196222909-3f2a80b6-0602-4775-9ebc-c748728a66ef.png)
 ![screen02](https://user-images.githubusercontent.com/108011846/196222954-5d8d96cf-b36e-4a32-b919-09147c0e5779.png)
+
+- Project 4 (Day 24-26) Browser
+
+![Simulator Screen Recording - iPhone 14 Pro - 2022-10-25 at 19 46 12](https://user-images.githubusercontent.com/108011846/197835131-18d141af-13b8-4090-b800-2748f1d8a50b.gif)
