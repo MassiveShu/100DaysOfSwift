@@ -26,3 +26,8 @@ Tasks from course 100DaysOfSwift
 - Project 5 (Day 27-29) WordScramble
 
 ![Simulator Screen Recording - iPhone 14 Pro - 2022-10-31 at 19 18 05](https://user-images.githubusercontent.com/108011846/199069070-8cd99b66-b4c3-46b1-8ada-c929e94cae2e.gif)
+
+- Project 6 (Day 30-31) Auto Layout technicks
+
+![Simulator Screen Recording - iPhone 14 Pro - 2022-10-31 at 20 55 54](https://user-images.githubusercontent.com/108011846/199087578-dd2a841a-13c5-4b82-a93d-dd4d128d9aae.gif)
+
