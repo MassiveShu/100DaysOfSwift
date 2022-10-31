@@ -22,3 +22,7 @@ Tasks from course 100DaysOfSwift
 - Project 4 (Day 24-26) Browser
 
 ![Simulator Screen Recording - iPhone 14 Pro - 2022-10-25 at 19 46 12](https://user-images.githubusercontent.com/108011846/197835131-18d141af-13b8-4090-b800-2748f1d8a50b.gif)
+
+- Project 5 (Day 27-29) WordScramble
+
+![Simulator Screen Recording - iPhone 14 Pro - 2022-10-31 at 19 18 05](https://user-images.githubusercontent.com/108011846/199069070-8cd99b66-b4c3-46b1-8ada-c929e94cae2e.gif)
