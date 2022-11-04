@@ -31,3 +31,7 @@ Tasks from course 100DaysOfSwift
 
 ![Simulator Screen Recording - iPhone 14 Pro - 2022-10-31 at 20 55 54](https://user-images.githubusercontent.com/108011846/199087578-dd2a841a-13c5-4b82-a93d-dd4d128d9aae.gif)
 
+- Project 7 (Day 32) ShoppingList
+
+![Simulator Screen Recording - iPhone 14 Pro - 2022-11-04 at 14 33 28](https://user-images.githubusercontent.com/108011846/199974768-1f5e415d-d402-46de-85c8-baf156e9c87e.gif)
+
