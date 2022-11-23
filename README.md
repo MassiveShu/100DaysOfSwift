@@ -35,3 +35,6 @@ Tasks from course 100DaysOfSwift
 
 ![Simulator Screen Recording - iPhone 14 Pro - 2022-11-04 at 14 33 28](https://user-images.githubusercontent.com/108011846/199974768-1f5e415d-d402-46de-85c8-baf156e9c87e.gif)
 
+- Project 8 (Day 36-38) Wordgame
+
+![Simulator Screen Recording - iPad Pro (12 9-inch) (6th generation) - 2022-11-23 at 20 26 07](https://user-images.githubusercontent.com/108011846/203621328-5abeda46-1cb7-45b8-80b2-98589f5a77d4.gif)
