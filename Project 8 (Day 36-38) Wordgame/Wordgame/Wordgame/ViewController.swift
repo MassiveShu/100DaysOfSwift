@@ -63,6 +63,8 @@ class ViewController: UIViewController {
         let submit = UIButton(type: .system)
         submit.translatesAutoresizingMaskIntoConstraints = false
         submit.setTitle("SUBMIT", for: .normal)
+        submit.layer.borderWidth = 2
+        submit.layer.borderColor = UIColor.lightGray.cgColor
         // when press button call a func
         submit.addTarget(self, action: #selector(submitTapped), for: .touchUpInside)
         view.addSubview(submit)
@@ -70,12 +72,16 @@ class ViewController: UIViewController {
         let clear = UIButton(type: .system)
         clear.translatesAutoresizingMaskIntoConstraints = false
         clear.setTitle("CLEAR", for: .normal)
+        clear.layer.borderWidth = 2
+        clear.layer.borderColor = UIColor.lightGray.cgColor
         // when press button call a func
         clear.addTarget(self, action: #selector(clearTapped), for: .touchUpInside)
         view.addSubview(clear)
 
         let buttonsView = UIView()
         buttonsView.translatesAutoresizingMaskIntoConstraints = false
+        buttonsView.layer.borderWidth = 1
+        buttonsView.layer.borderColor = UIColor.green.cgColor
         view.addSubview(buttonsView)
 
         NSLayoutConstraint.activate([
