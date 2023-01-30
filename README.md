@@ -42,3 +42,7 @@ Tasks from course 100DaysOfSwift
 - Project 11 (Day 45-47) BouncingBalls the Game
 
 ![ezgif-5-4b52f31bda](https://user-images.githubusercontent.com/108011846/215330443-fd20265d-32f4-4fef-9efe-6ce88c403dfc.gif)
+
+- Project 12 (Day 48-50) Photos
+
+![Simulator Screen Recording - iPhone 14 Pro - 2023-01-30 at 15 48 54](https://user-images.githubusercontent.com/108011846/215495237-50f6921e-bc6a-467f-854f-aa004b18335a.gif)
