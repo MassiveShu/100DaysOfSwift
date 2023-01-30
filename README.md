@@ -41,4 +41,4 @@ Tasks from course 100DaysOfSwift
 
 - Project 11 (Day 45-47) BouncingBalls the Game
 
-![Simulator Screen Recording - iPad Pro (12 9-inch) (6th generation) - 2023-01-29 at 12 03 22](https://user-images.githubusercontent.com/108011846/215319033-f992f3a0-0633-4d88-b9ae-66680acd1ea7.gif)
+![ezgif-5-4b52f31bda](https://user-images.githubusercontent.com/108011846/215330443-fd20265d-32f4-4fef-9efe-6ce88c403dfc.gif)
