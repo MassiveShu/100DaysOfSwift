@@ -46,3 +46,8 @@ Tasks from course 100DaysOfSwift
 - Project 12 (Day 48-50) Photos
 
 ![Simulator Screen Recording - iPhone 14 Pro - 2023-01-30 at 15 48 54](https://user-images.githubusercontent.com/108011846/215495237-50f6921e-bc6a-467f-854f-aa004b18335a.gif)
+
+- Project 13 (Day 52-54) Instafilter
+
+![Simulator Screen Recording - iPhone 13 Pro Max - 2023-02-01 at 16 00 13](https://user-images.githubusercontent.com/108011846/216064466-4529df44-650c-4b5a-aa02-304a50727f64.gif)
+
