@@ -51,3 +51,6 @@ Tasks from course 100DaysOfSwift
 
 ![Simulator Screen Recording - iPhone 13 Pro Max - 2023-02-01 at 16 00 13](https://user-images.githubusercontent.com/108011846/216064466-4529df44-650c-4b5a-aa02-304a50727f64.gif)
 
+- Project 14 (Day 55-56) Whack-a-Penguin
+
+![ezgif-4-c1631796e2](https://user-images.githubusercontent.com/108011846/218438426-981f8625-3a15-468e-9f48-c791bdc5ff73.gif)
