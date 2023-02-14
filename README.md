@@ -55,3 +55,6 @@ Tasks from course 100DaysOfSwift
 
 ![ezgif-5-b44c42f318](https://user-images.githubusercontent.com/108011846/218460998-1f0273b4-db82-460d-ac02-dd0ee2fd378a.gif)
 
+- Project 15 (Day 57-58) Animation
+
+![Simulator Screen Recording - iPad mini (6th generation) - 2023-02-14 at 12 35 13](https://user-images.githubusercontent.com/108011846/218711390-1202c44b-1cae-4e52-b69e-6bc0d156a012.gif)
