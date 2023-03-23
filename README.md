@@ -63,3 +63,6 @@ Tasks from course 100DaysOfSwift
 
 ![Simulator Screen Recording - iPhone 13 Pro Max - 2023-03-08 at 13 47 29](https://user-images.githubusercontent.com/108011846/223709399-184f3a10-3b42-40bf-8a47-ae1d76909d67.gif)
 
+- Project 17 (Day 62-63) SpaceGame
+
+![Simulator Screen Recording - iPad (10th generation) - 2023-03-23 at 15 22 21](https://user-images.githubusercontent.com/108011846/227219171-b1a07787-e347-4c22-8725-0724e2de088b.gif)
