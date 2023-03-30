@@ -66,3 +66,7 @@ Tasks from course 100DaysOfSwift
 - Project 17 (Day 62-63) SpaceGame
 
 ![Simulator Screen Recording - iPad (10th generation) - 2023-03-23 at 15 22 21](https://user-images.githubusercontent.com/108011846/227219171-b1a07787-e347-4c22-8725-0724e2de088b.gif)
+
+- Milestone Project 16-18 (Day 66)
+
+![Simulator Screen Recording - iPad Pro (12 9-inch) (6th generation) - 2023-03-30 at 12 16 35](https://user-images.githubusercontent.com/108011846/228790331-2efbbea3-b9e7-4398-9780-a388076c8a0a.gif)
